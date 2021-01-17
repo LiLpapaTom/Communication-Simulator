@@ -1,2 +1,2 @@
 # Communication Simulator
- Simulate incoming calls
+ Simulation of real time incoming calls
